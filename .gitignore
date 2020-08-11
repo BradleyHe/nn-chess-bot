@@ -1,5 +1,8 @@
 *.csv
 *.sublime-project
 *.sublime-workspace
+*.txt
+*.png
 /__pycache__
 /checkpoint
+/data
